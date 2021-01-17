@@ -1,4 +1,4 @@
-id, email, api_key, password_digest, created_at, updated_at
+id, email, api_key, password, created_at, updated_at
 1,joey@email.com,1caf76c470-be07-4ac1-9d36-1ab7cb0c405db86608958,$2a$12$2SmwCIi0luNbjJ0n3znKmOgs4QU0fdIIcn/oRnASkqLB.mCp6qT7q,2012-03-27 14:54:09 UTC,2012-03-27 14:54:09 UTC
 2,cecelia@email.com,3380e968-dcfb-4f0a-9896-c125be8a292d,$2a$12$2SmwCIi0luNbjJ0n3znKmOgs4QU0fdIIcn/oRnASkqLB.mCp6qT7q,2012-03-27 14:54:10 UTC,2012-03-27 14:54:10 UTC
 3,Mariah@email.com,3d894f7-e082-4712-a7b6-4342cdeeb7a1,$2a$12$2SmwCIi0luNbjJ0n3znKmOgs4QU0fdIIcn/oRnASkqLB.mCp6qT7q,2012-03-27 14:54:10 UTC,2012-03-27 14:54:10 UTC
