@@ -1,4 +1,5 @@
 # Artist Pals
+<img width="1023" alt="Screen Shot 2021-01-17 at 2 22 52 PM" src="https://user-images.githubusercontent.com/59414750/104856397-bac6d700-58cf-11eb-803a-0393424a4a30.png">
 
 Artist Pals is an internal API built for a ficticious e-commerce website that's dedicated to selling K-pop merchandise. In the world of K-pop, there are a variety of exclusive merchandise that can only be obtained at certain events such as concerts, fan meetings, comebacks, etc. Many of these items are unavailable for purchase over an official website. Artist Pals offers fans the opportunity to exchange, sell, and purchase items. Please enjoy this API.
 
