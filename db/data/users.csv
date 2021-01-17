@@ -1,0 +1,10 @@
+id, email, api_key, password_digest, created_at, updated_at
+1,joey@email.com,1caf76c470-be07-4ac1-9d36-1ab7cb0c405db86608958,$2a$12$2SmwCIi0luNbjJ0n3znKmOgs4QU0fdIIcn/oRnASkqLB.mCp6qT7q,2012-03-27 14:54:09 UTC,2012-03-27 14:54:09 UTC
+2,cecelia@email.com,3380e968-dcfb-4f0a-9896-c125be8a292d,$2a$12$2SmwCIi0luNbjJ0n3znKmOgs4QU0fdIIcn/oRnASkqLB.mCp6qT7q,2012-03-27 14:54:10 UTC,2012-03-27 14:54:10 UTC
+3,Mariah@email.com,3d894f7-e082-4712-a7b6-4342cdeeb7a1,$2a$12$2SmwCIi0luNbjJ0n3znKmOgs4QU0fdIIcn/oRnASkqLB.mCp6qT7q,2012-03-27 14:54:10 UTC,2012-03-27 14:54:10 UTC
+4,Leanne@email.com,404d20e4-5ca4-4625-b322-a7bd8b41571b,$2a$12$2SmwCIi0luNbjJ0n3znKmOgs4QU0fdIIcn/oRnASkqLB.mCp6qT7q,2012-03-27 14:54:10 UTC,2012-03-27 14:54:10 UTC
+5,Sylvester@email.com,af76c470-be07-4ac1-9d36-1ab7cb0c405d,$2a$12$2SmwCIi0luNbjJ0n3znKmOgs4QU0fdIIcn/oRnASkqLB.mCp6qT7q,2012-03-27 14:54:10 UTC,2012-03-27 14:54:10 UTC
+6,Heber@email.com,4zdf240-be07-4ac1-9d36-1ab7cb0c405d,$2a$12$2SmwCIi0luNbjJ0n3znKmOgs4QU0fdIIcn/oRnASkqLB.mCp6qT7q,2012-03-27 14:54:10 UTC,2012-03-27 14:54:10 UTC
+7,Parker@email.com,d894f7-e082-4712-a7b6-4342,$2a$12$2SmwCIi0luNbjJ0n3znKmOgs4QU0fdIIcn/oRnASkqLB.mCp6qT7q,2012-03-27 14:54:10 UTC,2012-03-27 14:54:10 UTC
+8,Loyal@email.com,d894f7--47134234ddfwe2-a7b6-4342,$2a$12$2SmwCIi0luNbjJ0n3znKmOgs4QU0fdIIcn/oRnASkqLB.mCp6qT7q,2012-03-27 14:54:11 UTC,2012-03-27 14:54:11 UTC
+9,Dejon@email.com,6073e968-dcfb-4f0a-9896-c125be8a2452p,$2a$12$2SmwCIi0luNbjJ0n3znKmOgs4QU0fdIIcn/oRnASkqLB.mCp6qT7q,2012-03-27 14:54:11 UTC,2012-03-27 14:54:11 UTC
