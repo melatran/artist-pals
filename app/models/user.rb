@@ -1,12 +1,13 @@
 class User < ApplicationRecord
   validates :email, uniqueness: true, presence: true
-  validates_presence_of :password_digest, require: true
+  validates :password, presence: true, on: :create
+  validates :password_digest, presence: true
 
   has_secure_password
 
-  before_create :create_api_key
+  before_create :set_api_key
 
-  def create_api_key
+  def set_api_key
     self.api_key = SecureRandom.uuid
   end
 end
