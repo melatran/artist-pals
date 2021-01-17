@@ -13,7 +13,7 @@ Rails.application.routes.draw do
       end
 
       resources :users, only: [:create]
-      resources :merchants, only: [:index, :show]
+      resources :merchants
       resources :items
     end
   end
