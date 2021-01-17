@@ -9,6 +9,10 @@ gem 'puma', '~> 4.1'
 gem 'bootsnap', '>= 1.4.2', require: false
 gem 'rack-cors'
 gem 'bcrypt'
+gem 'fast_jsonapi'
+gem 'rack-cors'
+gem 'simplecov'
+gem 'faraday'
 
 group :development, :test do
   gem 'awesome_print'
