@@ -1,24 +1,3 @@
-# README
+# Artist Pals
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Artist pals is an API that supports an undeveloped front end. Artist Pals is an app designed for K-Pop fans to exchange and purchase K-pop merchandise from one another. This API consists of users, merchants, transactions, and items.

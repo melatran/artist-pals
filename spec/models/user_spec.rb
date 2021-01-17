@@ -7,6 +7,10 @@ describe User do
     it {should validate_presence_of :password_digest}
   end
 
+  describe 'relationships' do
+    it {should have_many :invoices}
+  end
+
   describe "class methods" do
     it "#create_api_key" do
       user = User.create!(email: 'email@gamil.com', password: '1234', password_confirmation: '1234')

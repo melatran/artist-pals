@@ -53,7 +53,6 @@ describe "Users Api" do
     post '/api/v1/users', params: user_params
 
     json = JSON.parse(response.body, symbolize_names: true)
-      require 'pry'; binding.pry
     expect(response).to_not be_successful
     expect(response.status).to eq(400)
     expect(json[:errors]).to eq(["Password confirmation doesn't match Password"])

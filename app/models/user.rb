@@ -2,6 +2,8 @@ class User < ApplicationRecord
   validates :email, uniqueness: true, presence: true
   validates :password, presence: true, on: :create
   validates :password_digest, presence: true
+  
+  has_many :invoices
 
   has_secure_password
 
